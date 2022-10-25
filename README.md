@@ -14,8 +14,8 @@ int main ()
           cout<< "+--------------------------------------------------------------+" << endl;
           cout<< "|        Name       : Rieshab Kumar Dev                        |" <<endl;
           cout<< "|        Email      : rieshab.dev12@gmail.com                  |"<<endl;
-          cout<< "|        Department : Computer Science and Engineering         |"<<endl;
-          cout<< "|        Course No. : CSCE 1030 - Computer Science - I         |" << endl;
+          cout<< "|        Department : XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX        |"<<endl;
+          cout<< "|        Course No. : XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX         |" << endl;
           cout<< "+--------------------------------------------------------------+" << endl;
          
 
